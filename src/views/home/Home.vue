@@ -1,6 +1,8 @@
 <template>
-  <top-bar></top-bar>
-  <nav-bar></nav-bar>
+  <div>
+    <top-bar></top-bar>
+    <nav-bar></nav-bar>
+  </div>
 </template>
 
 <script>
