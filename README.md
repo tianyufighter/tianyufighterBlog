@@ -1,4 +1,4 @@
-# tianyufighter-blog
+# tianyublog
 
 ## Project setup
 ```
